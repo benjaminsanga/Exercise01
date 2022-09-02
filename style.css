@@ -1,0 +1,17 @@
+label, input {
+  display: block;
+}
+
+label {
+  padding: 10px 0 2px 0;
+}
+
+input {
+  padding: 3px 10px;
+}
+
+input[type="submit"] {
+  margin: 10px 0;
+  padding: 5px 20px;
+  width: fit-content;
+}
